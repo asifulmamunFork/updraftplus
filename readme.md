@@ -1,3 +1,10 @@
+This is WP premium Plugin.
+Downloaded free.
+Verified No viruses.
+It's using for any demand time, not for all time.
+
+- Thank You
+
 === UpdraftPlus WordPress Backup Plugin ===
 Contributors: Backup with UpdraftPlus, DavidAnderson, DNutbourne, aporter, snightingale, bcrodua
 Tags: backup, restore, database backup, wordpress backup, cloud backup, s3, dropbox, google drive, onedrive, ftp, backups
